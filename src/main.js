@@ -6,7 +6,7 @@ Vue.config.productionTip = false;
 
 Vue.use(VueFbCustomerChat, {
   page_id: 356413202061705, //  change 'null' to your Facebook Page ID,
-  theme_color: "#333333", // theme color in HEX
+  theme_color: "rgb(65,184,131)", // theme color in HEX
   locale: "ko_KR", // default 'en_US'
 });
 
